@@ -1,4 +1,10 @@
-/.cache
+/cache
 /config
+!/config
+/config/*
+!/config/auto
+/config/auto/*
+!/config/auto/extensions
+/config/auto/extensions/*
 /embeddings
 /models
